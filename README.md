@@ -19,7 +19,9 @@ The objective of this assignment is to implement Natural Language Processing (NL
   - World  
   - Sports  
   - Business  
-  - Sci/Tech  
+  - Sci/Tech
+- Link for Dataset :
+  https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset/
 
 Each record consists of a news title and description, which are combined to form the input text.
 
